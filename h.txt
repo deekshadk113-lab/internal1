@@ -1,0 +1,221 @@
+Deeksha DK@LAPTOP-524EPI5E MINGW64 ~ (feature-login2|CHERRY-PICKING)
+$ history
+    1  git --version
+    2  git config --global user.name "Deekshadk113"
+    3  git config --global user.email "deekshadk113@gmail.com"~
+    4  cd desktop
+    5  git init Gitresult
+    6  cat github.text
+    7  touch github.txt
+    8  cat github.txt
+    9  mkdir github
+   10  cd github
+   11  echo "hello"
+   12  echo "hello"> github.txt
+   13  cat github.txt
+   14  git add github.txt
+   15  git commit -m "computer"
+   16  clear
+   17  mkdir myproject
+   18  mkdir myproject
+   19  cd myproject
+   20  git init
+   21  echo "hell"
+   22  echo "hell" > a.txt
+   23  cat a.txt
+   24  git add a.txt
+   25  git commit -m "hgj"
+   26  git log
+   27  git init
+   28  git add my_file.txt
+   29  git touch my_file1.txt
+   30  git add my_file.txt
+   31  git status
+   32  git log
+   33  git commit -m"Fix typo in my_file"
+   34  git log
+   35  git push origin main
+   36  git config --global user.name "deekshadk113-lab"
+   37  git config --global user.email "dkdeeksha113@gmail.com"
+   38  git config --list
+   39  git init
+   40  mkdir bcd
+   41  cd bcd
+   42  echo "welcome to git">f2.txt
+   43  cat f2.txt
+   44  git status
+   45  git log
+   46  git add f2.txt
+   47  git commit -m "committed"
+   48  git status
+   49  git log
+   50  git clone https://github.com/deekshadk113-lab/program1.git
+   51  git remote add origin https://github.com/deekshadk113-lab/program1.git
+   52  git push -u origin main
+   53  cd program1
+   54  echo "hi">f4.txt
+   55  git add f4.txt
+   56  git commit -m "committed"
+   57  git push -u origin main
+   58  git push -u origin main
+   59  cd project
+   60  git init
+   61  cd project
+   62  git branch
+   63  git branch feature-login1
+   64  git checkout feature-login1
+   65  git checkout main
+   66  git merge feature-login1
+   67  git clone https://github.com/deekshadk113-lab/text3.git
+   68  git init
+   69  git remote add origin https://github.com/deekshadk113-lab/text3.git
+   70  git push origin master
+   71  git push origin feature-login1
+   72  git push origin main
+   73  echo "hi">prgm1.txt
+   74  git push origin main
+   75  git add prgm1.txt
+   76  git commit -m "added"
+   77  git checkout master
+   78  git rebase feature-login2
+   79  git branch
+   80  git branch -r
+   81  git branch -r
+   82  git fetch origin
+   83  git checkout -b feature-login2 origin/feature-login2
+   84  git rebase feature-login2
+   85  git checkout -b feature-login2
+   86  git branch -r
+   87  git rebase feature-login2
+   88  git push --set upstream origin master
+   89  git push --set-upstream origin master
+   90  cd 22
+   91  mkdir 22
+   92  cd 22
+   93  echo "hello">deeksha.txt
+   94  git add deeksha.txt
+   95  git commit -m "hi"
+   96  git push origin main
+   97  git push origin master
+   98  cd ..
+   99  cd ..
+  100  cd ..
+  101  cd ..
+  102  git init
+  103  cd c
+  104  cd Users
+  105  git init
+  106  cls
+  107  clr
+  108  cd Deeksha DK
+  109  git init
+  110  git config --global user.name "deekshadk113-lab"
+  111  git config --global user.email "dkdeeksha113@gmail.com"
+  112  cd ..
+  113  git --list
+  114  git config --list
+  115  mkdir my_project
+  116   git config --global user.name "deekshadk113-lab"
+  117  git config --global user.email "dkdeeksha113@gmail.com"
+  118  git config --list
+  119  git init
+  120  git config --global user.name "deekshadk113-lab"
+  121  git config --global user.email "dkdeeksha113@gmail.com"
+  122  git config --list
+  123  mkdir my_project1
+  124  cd my_myproject1
+  125  cd my_project1
+  126  git init
+  127  echo "hello">a.txt
+  128  cat a.txt
+  129  git add a.txt
+  130  git status
+  131  git commit -m "commit message"
+  132  git log
+  133  git clone https://github.com/deekshadk113-lab/lab1.git
+  134  cd lab1
+  135  cd ..
+  136  cd ..
+  137  cd lab1
+  138  git clone https://github.com/deekshadk113-lab/lab1.git
+  139  cd lab1
+  140  git status
+  141  git init
+  142  echo "Good Morning" >e1.txt
+  143  cat e1.txt
+  144  git add e1.txt
+  145  git commit -m "good night"
+  146  git status
+  147  git log
+  148  git push origin main
+  149  git status
+  150  git pull origin main
+  151  git fetch origin
+  152  git checkout main
+  153  git merge origin
+  154  ls
+  155  cat e1.txt
+  156  git branch
+  157  git branch feature-login
+  158  git switch feature-login
+  159  git branch -D feature-login
+  160  git branch -d feature-login
+  161  git switch main
+  162  git branch -D feature-login
+  163  git branch feature-login
+  164  git merge feature-login
+  165  git push -u origin feature-login
+  166  git switch feature-login
+  167  git rebase main
+  168  git stash
+  169  git status
+  170  git add e1.txt
+  171  git commit -m "your message"
+  172  cat e1.txt
+  173  git stash
+  174  git status
+  175  git stash
+  176  git switch main
+  177  git stash list
+  178  git stash pop
+  179  git clone https://github.com/deekshadk113-lab/lab1.git
+  180  git clone https://github.com/deekshadk113-lab/lab1.git
+  181  git checkout -b feature-add -user-authentication
+  182  git checkout -b feature-add-user-authentication
+  183  echo " dsatm git">e2.txt
+  184  git add e2.txt
+  185  git add .
+  186  git commit -m "added authentication functionality"
+  187  git push origin feature-add-user-authentication
+  188  git switch main
+  189  git pull origin main
+  190  git merge feature-add-user-authentication
+  191  git pull origin main
+  192  git log --oneline -n 5
+  193  git log -n 5 --pretty=format:"%h - %an, %ar : %s"
+  194  git cherry-pick 0640fb8^..ac9198c
+  195  git cherry-pick acc4eed^..0640fb8
+  196  git cherry-pick acc4eed^..0640fb8 --no-merges
+  197  git log --author="JohnDoe" --since="2023-01-01" --until="2023-12-31" -
+  198  pretty=format:"%h - %ad - %s" --date=short
+  199  git log --author="JohnDoe" --since="2023-01-01" --until="2023-12-31" --
+  200  pretty=format:"%h - %ad - %s" --date=short
+  201  git log --author="JohnDoe" --since="2023-01-01" --until="2023-12-31" --
+  202  pretty=format:"%h - %ad - %s" --date=short
+  203  git log --author="JohnDoe" --since="2023-01-01" --until="2023-12-31" --pretty=format:%h - %ad - %s" --date=short
+  204  git log --author="JohnDoe" --since="2023-01-01" --until="2023-12-31" --pretty=format:"%h - %ad - %s" --date=short
+  205  git log --oneline -n 5
+  206  git cherry-pick 166ffa2
+  207  git log --author="deekshadk113-lab" --since="2025-05-25" --until="2025-05-30--pretty=format:"%h - %ad - %s" --date=short
+  208   git log --author="deekshadk113-lab" --since="2025-05-25" --until="2025-05-30--pretty=format:"%h %ad | %s [%an]" --date=short
+  209   git log --author=deekshadk113-lab --since="2025-05-25" --until="2025-05-30--pretty=format:"%h %ad | %s [%an]" --date=short
+  210  git log --author="deekshadk113-lab" --since="2025-05-25" --until="2025-05-30--pretty=format:"%h %ad | %s%d [%an]" --date=short
+  211  cd ..
+  212  git clone https://github.com/deekshadk113-lab/lab1.git
+  213  cd lab1
+  214  git staus
+  215  git status
+  216  history
+
+Deeksha DK@LAPTOP-524EPI5E MINGW64 ~ (feature-login2|CHERRY-PICKING)
+$
